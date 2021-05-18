@@ -1,0 +1,5 @@
+![global](https://user-images.githubusercontent.com/84277750/118660193-96daba00-b80b-11eb-8f03-3ffb0e9e6ad4.PNG)
+![inher](https://user-images.githubusercontent.com/84277750/118660200-980be700-b80b-11eb-8cb4-e1f35c6c0014.PNG)
+![loc](https://user-images.githubusercontent.com/84277750/118660202-98a47d80-b80b-11eb-8dd5-8f62363ba3e8.PNG)
+![nest](https://user-images.githubusercontent.com/84277750/118660205-98a47d80-b80b-11eb-9a48-d8cb834554f8.PNG)
+![thir](https://user-images.githubusercontent.com/84277750/118660208-993d1400-b80b-11eb-952c-38406116c42d.PNG)
